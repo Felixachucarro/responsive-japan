@@ -82,3 +82,22 @@ text-decoration: none;
     left: 8%;
 
 }
+
+.banner-mobile img{
+    width: 84%;
+    left: 22%;
+    top: 11%;
+    position: absolute;
+}
+
+
+.nav-mobile{
+    background-color: red;
+    margin-left: -4%;
+    margin-top: -4%;
+    margin-right: -5%;
+    padding-left: 11%;
+    padding-right: 11%;
+    position: fixed;
+}
+

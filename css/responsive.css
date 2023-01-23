@@ -92,4 +92,30 @@
   }
 
 
+  @media (max-width: 900px) {
+    .desk {
+       display: none;
+    }
+  }
+
   
+  @media (max-width: 2000px) {
+    .mobile {
+       display: none;
+    }
+  }
+
+  @media (max-width: 900px) {
+    .mobile {
+       display:grid;
+       flex-direction: row;
+    }
+  }
+
+  .mobile a{
+    text-decoration: none;
+    color: black;
+    font-size: 2em;
+  }
+
+ 
