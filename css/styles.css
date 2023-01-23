@@ -3,14 +3,15 @@ font-family: 'Times New Roman', Times, serif;
 }
 
 .nav-bar{
-    background-color: red;
+    background-color: #ff0000;
     background-size: cover;
-    width: auto;
-    height: 190px;
+    width: 1500px;
+    height: 226px;
     color: black;
     margin-top: -6%;
     margin-right: -2%;
     margin-left: -2%;
+    position: fixed;
 }
 
 
@@ -27,7 +28,10 @@ font-family: 'Times New Roman', Times, serif;
     position: absolute;
     font-family: 'Noto Sans TC', sans-serif;
     font-size: 2em;
-    left: 2%;
+    
+    left: 4%;
+    top: 21%;
+    font-weight: 800;
     
 }
 
@@ -40,7 +44,7 @@ text-decoration: none;
     max-width: 631px;
     z-index: 3;
     margin-left: 19%;
-    margin-top: -4%;
+    margin-top: 1%;
     position: absolute;
 }
 
@@ -51,7 +55,7 @@ text-decoration: none;
     margin-right: 3%;
     letter-spacing: 2px;
     font-size: small;
-    padding-top: 31px;
+    padding-top: 13%;
 }
 
 .texto-banner h6{
